@@ -1,0 +1,4 @@
+{
+    "python.formatting.provider": "black",
+    "solidity.compileUsingRemoteVersion": "0.6.0"
+}
